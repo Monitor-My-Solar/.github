@@ -1,7 +1,5 @@
 # MonitorMySolar
 
-![MonitorMySolar Logo](https://monitormy.solar/logo.png)
-
 **MonitorMySolar** is a smart solar monitoring platform designed to track, analyze, and optimize energy performance across solar installations.
 
 ---
